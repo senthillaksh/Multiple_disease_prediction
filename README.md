@@ -2,4 +2,4 @@
 
 Deployed web app
 
-Link:https://multidisease-prediction.herokuapp.com/
+Link: https://multidisease-prediction.herokuapp.com/
