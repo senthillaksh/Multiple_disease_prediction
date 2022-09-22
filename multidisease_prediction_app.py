@@ -87,7 +87,7 @@ if(selected == 'Heart Disease Prediction'):
   col1, col2 = st.columns(2)
 
   with col1:
-    age = st.text_input('Age')
+    age = st.text_input('Age of the person')
 
   with col2:
      sex = st.text_input("Sex (1 = Male; 0 = Female)") 
@@ -123,7 +123,7 @@ if(selected == 'Heart Disease Prediction'):
      ca = st.text_input("Major vessels colored by flourosopy eg. (0–3) ")
 
   with col1:   
-    thal = st.text_input("Thalassemia eg. (0–2)")   
+    thal = st.text_input("Thalassemia Defect eg. (0–2)")   
 
 
   # code for prediction
