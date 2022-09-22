@@ -5,11 +5,11 @@ from streamlit_option_menu import option_menu
 
 #loading the saved models
 
-diabetes_model = pickle.load(open('/content/drive/MyDrive/Diabetes Prediction /diabetes_prediction.pkl', 'rb'))
+diabetes_model = pickle.load(open('diabetes_prediction.pkl', 'rb'))
 
-heart_disease_model = pickle.load(open('/content/drive/MyDrive/Heart Disease Prediction /heart_disease_prediction.pkl', 'rb'))
+heart_disease_model = pickle.load(open('heart_disease_prediction.pkl', 'rb'))
 
-parkinsons_model = pickle.load(open("/content/drive/MyDrive/Parkinson's Disease Detection /parkinson_prediction.pkl", 'rb'))
+parkinsons_model = pickle.load(open("parkinson_prediction.pkl", 'rb'))
 
 # sidebar for navigation
 
