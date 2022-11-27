@@ -13,7 +13,7 @@ Multiple Disease Prediction System
      3. Parkinsons Prediction
 
          Used data from Kaggle dataset and Feature selection is done for selecting top 10 important features.
-         Handled imbalanced dataset using SMOTE and implemented Adaboost model with accuracy score of 92.3%
+         Handled imbalanced dataset using SMOTE and implemented Adaboost model with accuracy score of 92.3%.
 
 Deployed webapp on streamlit using Heroku :  https://multidisease-prediction.herokuapp.com/ 
 
