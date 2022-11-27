@@ -2,8 +2,7 @@ Multiple Disease Prediction System
 
      1. Diabetes Prediction 
 
-        Used data from Kaggle dataset and performed Data cleaning, Data Visualization for replacing of missing values and  done Feature Scaling  to transform the       variables into   a similar scale.
- 
+        Used data from Kaggle dataset and performed Data cleaning, Data Visualization for replacing of missing values and done Feature Scaling to transform the       variables into a similar scale.
         Implemented Random Forest Classifier model along with Cross Validation techniques and achieved an accuracy score of 94.06%
 
      2. Heart Disease Prediction
