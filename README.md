@@ -15,3 +15,4 @@ Multiple Disease Prediction System
          Used data from Kaggle dataset and Feature selection is done for selecting top 10 important features.
          Handled imbalanced dataset using SMOTE and implemented Adaboost model with accuracy score of 92.3%!
 
+Deployed webapp using Streamlit on render :  https://multidisease-prediction.onrender.com/
